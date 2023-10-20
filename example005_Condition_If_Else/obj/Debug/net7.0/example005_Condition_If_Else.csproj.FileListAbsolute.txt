@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\bin\Debug\net7.0\example005_Condition_If_Else.exe
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\bin\Debug\net7.0\example005_Condition_If_Else.deps.json
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\bin\Debug\net7.0\example005_Condition_If_Else.runtimeconfig.json
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\bin\Debug\net7.0\example005_Condition_If_Else.dll
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\bin\Debug\net7.0\example005_Condition_If_Else.pdb
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\example005_Condition_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\example005_Condition_If_Else.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\example005_Condition_If_Else.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\example005_Condition_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\example005_Condition_If_Else.dll
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\refint\example005_Condition_If_Else.dll
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\example005_Condition_If_Else.pdb
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\example005_Condition_If_Else.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Example\example005_Condition_If_Else\obj\Debug\net7.0\ref\example005_Condition_If_Else.dll
