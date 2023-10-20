@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\example009_IntoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\example009_IntoArray.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\example009_IntoArray.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\example009_IntoArray.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Example\example009_IntoArray\bin\Debug\net7.0\example009_IntoArray.exe
+C:\Users\Alex\Desktop\Example\example009_IntoArray\bin\Debug\net7.0\example009_IntoArray.deps.json
+C:\Users\Alex\Desktop\Example\example009_IntoArray\bin\Debug\net7.0\example009_IntoArray.runtimeconfig.json
+C:\Users\Alex\Desktop\Example\example009_IntoArray\bin\Debug\net7.0\example009_IntoArray.dll
+C:\Users\Alex\Desktop\Example\example009_IntoArray\bin\Debug\net7.0\example009_IntoArray.pdb
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\example009_IntoArray.dll
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\refint\example009_IntoArray.dll
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\example009_IntoArray.pdb
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\example009_IntoArray.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Example\example009_IntoArray\obj\Debug\net7.0\ref\example009_IntoArray.dll

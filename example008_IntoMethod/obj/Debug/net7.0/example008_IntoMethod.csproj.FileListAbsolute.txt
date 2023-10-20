@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\bin\Debug\net7.0\example008_IntoMethod.exe
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\bin\Debug\net7.0\example008_IntoMethod.deps.json
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\bin\Debug\net7.0\example008_IntoMethod.runtimeconfig.json
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\bin\Debug\net7.0\example008_IntoMethod.dll
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\bin\Debug\net7.0\example008_IntoMethod.pdb
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\example008_IntoMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\example008_IntoMethod.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\example008_IntoMethod.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\example008_IntoMethod.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\example008_IntoMethod.dll
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\refint\example008_IntoMethod.dll
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\example008_IntoMethod.pdb
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\example008_IntoMethod.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Example\example008_IntoMethod\obj\Debug\net7.0\ref\example008_IntoMethod.dll
